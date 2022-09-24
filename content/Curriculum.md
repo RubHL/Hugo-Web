@@ -6,7 +6,7 @@ draft: false
 
 # Mi Curriculum
 
-Me llamo pepe y soy estudiante de... se actualiza
+Me llamo pepe y soy estudiante de... se actualiza sin hugo -d docs
 
 
 
