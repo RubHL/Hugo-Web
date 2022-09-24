@@ -6,6 +6,6 @@ draft: false
 
 # Mi Curriculum
 
-Me llamo pepe y soy estudiante de...
+Me llamo pepe y soy estudiante de... informatica
 
 ![mono](https://img.blogs.es/anexom/wp-content/uploads/2021/03/fotos-de-monos.jpg)
